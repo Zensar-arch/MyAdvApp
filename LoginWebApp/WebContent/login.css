@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+body{
+background-position: center;
+background-size: 900px;
+background-color: grey;
+ padding-top: 150px;
+
+}
+p{
+color:black;
+font-size:22px;
+text-align:center;
+align:center;
+margin-top:40px;
+padding-top: 40px;
+}
+
+h3{
+	color:black;
+	
+	text-align: justify;
+	font-size: 40px;
+	
+}
+table{
+    border-radius: 5px;
+    box-shadow: 8px 8px 8px black;
+    text-align:left;
+    color:grey;
+    align-content:center;
+    table-layout: fixed;
+}
+div{
+	width: 250px;
+	margin-left: 500px;
+	margin-right: 100px;
+}
+
+a{
+	font-size: 20px;
+	
+}
